@@ -1,0 +1,68 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+ <head>
+  <title> New Document </title>
+  <style>
+	table, tr, td{
+	text-align:center;
+	}
+  </style>
+ </head>
+
+ <body>
+  <table border="1" width="100%" height="100%">
+    <tr height="10%" style="background-color:#bbdefb">
+      <td width="10%" align="center">이름</td>
+      <td width="10%" align="center">회사</td>
+      <td width="10%" align="center">휴대폰 번호</td>
+      <td width="20%" align="center">집</td>
+      <td width="10%" align="center">이메일</td>
+      <td width="10%" align="center">성별</td>
+      <td width="20%" align="center">주소</td>
+      <td width="10%" align="center">도시</td>
+    </tr>
+    <tr height="20%">
+      <td>홍길동</td>
+      <td>(주)와이티</td>
+      <td>010-7777-7111</td>
+      <td>(042)542-4888</td>
+      <td>ytstudy@naver.com</td>
+      <td>여</td>
+      <td>중구 대흥동 12번지</td>
+      <td>대전광역시</td>
+    </tr>
+
+    <tr height="20%">
+      <td>홍길동</td>
+      <td>(주)와이티</td>
+      <td>010-7777-7111</td>
+      <td>(042)542-4888</td>
+      <td>ytstudy@naver.com</td>
+      <td>여</td>
+      <td>중구 대흥동 12번지</td>
+      <td>대전광역시</td>
+    </tr>
+    <tr height="20%">
+      <td>홍길동</td>
+      <td>(주)와이티</td>
+      <td>010-7777-7111</td>
+      <td>(042)542-4888</td>
+      <td>ytstudy@naver.com</td>
+      <td>여</td>
+      <td>중구 대흥동 12번지</td>
+      <td>대전광역시</td>
+    </tr>
+
+    <tr height="20%">
+      <td>홍길동</td>
+      <td>(주)와이티</td>
+      <td>010-7777-7111</td>
+      <td>(042)542-4888</td>
+      <td>ytstudy@naver.com</td>
+      <td>여</td>
+      <td>중구 대흥동 12번지</td>
+      <td>대전광역시</td>
+    </tr>
+  </table>
+ </body>
+</html>
